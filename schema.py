@@ -68,3 +68,4 @@ class OrderStatusModel(BaseModel):
                 "order_status": "TRANSIT"
             }
         }
+        

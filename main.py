@@ -8,6 +8,7 @@ from fastapi.routing import APIRoute
 from fastapi.openapi.utils import get_openapi
 
 
+
 app = FastAPI()
 
 

@@ -1,2 +1,3 @@
-ui.py
 venv
+_pycache_
+.idea
